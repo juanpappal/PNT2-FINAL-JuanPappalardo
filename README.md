@@ -1,5 +1,10 @@
-# Vue 3 + Vite
+# Examen Final PNT2 – Conversor de Pesos a Dólares  
+**Alumno:** Juan Pappalardo  
+**Fecha:** 9/12/2025  
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Este proyecto implementa el ejercicio solicitado en el examen final de PNT2.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+- Separación en componentes:
+  - `ConversorDolar.vue` → Lógica principal del ejercicio.
+  - `PreguntasFinal.vue` → Respuestas del examen.
+  - `App.vue` → Componente raíz que integra ambos.
